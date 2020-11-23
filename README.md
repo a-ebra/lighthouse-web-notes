@@ -1,6 +1,6 @@
 # Aqil's Notes
 
-This repository contains all of my notes for the Web Development Bootcamp. 
+This repository contains all of [Aqil's](https://github.com/a-ebra) notes for the Web Development Bootcamp. 
 
 Git cheat sheets:
 file:///Users/aqilebrahim/Documents/Lighthouse%20Labs/SWTM-2088_Atlassian-Git-Cheatsheet.pdf
